@@ -13,6 +13,10 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+a {
+    color: #5696fc;
+}
+
 h1 {
     font-family: serif;
     text-shadow: 1px 1px;
